@@ -11,6 +11,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-tau-lake-91.vercel.app/api?username=GaodaGG&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats-tau-lake-91.vercel.app/api/top-langs/?username=GaodaGG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats-tau-lake-91.vercel.app/api?username=GaodaGG&show_icons=true&theme=radical&hide_border=true&locate=zh-tw" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats-tau-lake-91.vercel.app/api/top-langs/?username=GaodaGG&layout=compact&theme=radical&hide_border=true&locate=zh-tw" alt="Top Languages" width="45%"/>
 </div>
